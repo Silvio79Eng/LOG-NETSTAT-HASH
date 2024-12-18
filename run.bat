@@ -1,4 +1,4 @@
-:: PROC 12/2024 SMA
+:: PROC 12/2024 SMA monitoramento de processos com geração de arquivo de hash
 
 set /a cont=0
 set /a zero=0
